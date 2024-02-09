@@ -1,6 +1,6 @@
 const Questions = () => {
   return (
-    <div className="container my-5 py-4">
+    <div className="container my-5 py-4" id="questions">
       <h2 className="text-center">Frequently Asked Questions</h2>
       <div className="accordion-flush mt-5 mx-lg-5">
         <div class="accordion accordion-flush" id="accordionFlushExample">

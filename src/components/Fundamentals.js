@@ -3,7 +3,7 @@ import Fundamentals_pic from "../assets/images/fundamentals.svg";
 const Fundamentals = () => {
   return (
     <>
-      <div className="container py-5 mt-5 ">
+      <div className="container py-5 mt-5 " id="learn/ ">
         <div className=" row align-items-center justify-content-between gy-md-0 gy-5 ">
           <div className=" col-md">
             <img

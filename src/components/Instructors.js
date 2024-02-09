@@ -1,7 +1,7 @@
 const Instructors = () => {
   return (
     <>
-      <div className="bg-primary p-5">
+      <div className="bg-primary p-5" id="instructors">
         <div className="container text-light">
           <h2 className="text-center">Our Instructors</h2>
           <p className="text-center lead">
