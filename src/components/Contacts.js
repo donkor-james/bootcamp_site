@@ -12,11 +12,11 @@ const Contacts = () => {
               </li>
               <li className="list-group-item">
                 <span className="fw-bold me-2">Enrollment Phone:</span>
-                (+233) 55-130-5555
+                (+233) 55-130-5455
               </li>
               <li className="list-group-item">
                 <span className="fw-bold me-2">Student Phone:</span>
-                (+233) 54-123-4455
+                (+233) 54-123-4685
               </li>
               <li className="list-group-item">
                 <span className="fw-bold me-2">Enrollment Email:</span>
@@ -24,7 +24,7 @@ const Contacts = () => {
               </li>
               <li className="list-group-item">
                 <span className="fw-bold me-2">Student Email:</span>
-                students@frontendbootc.test
+                students@frontendboot.test
               </li>
             </ul>
           </div>
