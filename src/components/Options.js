@@ -55,7 +55,7 @@ const Options = () => {
 
                   <div className="my-3">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    nesciunt suscipit voluptatum perspiciatis nulla sint fugiat
+                    nesciunt suscipit voluptam perspiciatis nulla sint fugiat
                     voluptas ipsum quis. it amet consectetur
                   </div>
                   <button type="" className="btn btn-primary btn-md">
