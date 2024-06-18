@@ -5,7 +5,7 @@ const Instructors = () => {
         <div className="container text-light">
           <h2 className="text-center">Our Instructors</h2>
           <p className="text-center lead">
-            Our Instructors all have 6+ years working Experience in web
+            Our Instructors all have 4+ years working Experience in web
             development in the industry
           </p>
           <div className="row g-4 mt-4">

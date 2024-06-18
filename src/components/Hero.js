@@ -2,6 +2,7 @@ import Showcase from "../assets/images/showcase.svg";
 const Hero = () => {
   return (
     <>
+      {/* hero section */}
       <div className="bg-dark text-light p-5 hero">
         <div className="container d-sm-flex text-sm-start text-center align-items-center justify-content-center">
           <div className="">
